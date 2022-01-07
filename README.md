@@ -44,7 +44,8 @@ If you find this code useful for your research, please use the following BibTeX 
 ```
 @ARTICLE{Wang_learnging,  
   title={Learning Dense Correspondences for Non-Rigid Point Clouds With Two-Stage Regression},   
-  author={Wang, Kangkan and Zhang, Guofeng and Zheng, Huayu and Yang, Jian},    journal={IEEE Transactions on Image Processing},   
+  author={Wang, Kangkan and Zhang, Guofeng and Zheng, Huayu and Yang, Jian},    
+  journal={IEEE Transactions on Image Processing},   
   year={2021},  
   volume={30},  
   pages={8468-8482},  
